@@ -14,9 +14,11 @@
 - SHA-256: см. `releases/CHECKSUMS.txt`
 - Android 8.0 или новее. Разрешения: камера (сканирование штрихкодов).
 
-QR для скачивания APK на телефон:
+- Всегда последняя версия: https://app.yellowtsd.ru/download/android
 
-![QR: скачать Жёлтый ТСД](releases/android/qr-yellowtsd-apk.png)
+QR на постоянный адрес (всегда ведет на последнюю версию):
+
+![QR: скачать Жёлтый ТСД](releases/android/qr-download.png)
 
 ### Установка
 
