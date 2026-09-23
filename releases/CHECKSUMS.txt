@@ -18,3 +18,4 @@ e6be3bbb0e9f76ca031ac72b4d28bbf644f96281a1fff4212a73f162e128104b  android/yellow
 4d7acce73b6edaff7bdef89a77dafe89641a37dc3aa2cbaeec2a8e1e5d527400  android/yellowtsd-0.1.17.apk
 11a7208c18dbfa598edda07ac5c9ab17338199f6eb433d53423cd6914d783bba  android/yellowtsd-0.1.18.apk
 9c16567b0f5ebf6ccd7b5873e527f4eca254c4fe4383c70006bb9e6ee52524b8  android/yellowtsd-0.1.19.apk
+bf7c3e5d82d730a0aec2fc61ba93b38cae1b1212f809b1711fcffebcd0446bc0  android/yellowtsd-0.1.20.apk
